@@ -5,4 +5,4 @@ initial version of object tracking with Yolo and Deepsort
 **Later versions includes customizations and optimizations according to requirements**
 
 *This project is to detect and track object especially a person from CC camera or body worn camera etc.,*
-> This ideally is to add another layer of security
+> This ideally is to add another layer of security.
