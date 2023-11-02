@@ -24,6 +24,7 @@ list_of_project_files=[
     "dvc.yaml", # Data version control
     "params.yaml", ## project/model parameters
     "init_setup.sh", ## bash script helps in creating environtment and install requried packages
+    "init_setup_MacM1.sh", # For Mac M1 users if there are any particular library needs to be installed (tensorflow)
     "setup.py",
     "setup.cfg",
     "requirements.txt", # project requirements
