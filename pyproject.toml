@@ -1,0 +1,14 @@
+[build-system]
+requires= ['setuptools >=42.0', "wheel" ]
+build-backend = "setuptools.build_meta"
+
+# test options says it has to look in tests folder
+[tools.pytest.ini_options]
+testpaths= [
+            "tests"
+            ]
+
+# if we are using mypy then check only source folder
+[tool.mypy]
+mypy_path = "src"
+ignore_missing_imports= true
