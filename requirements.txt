@@ -32,5 +32,8 @@ thop  # FLOPs computation
 ## Version controlling
 dvc
 
+# easy dict and graphs
+easydict
+graphs
 # Custom package
-.e
+# .e
